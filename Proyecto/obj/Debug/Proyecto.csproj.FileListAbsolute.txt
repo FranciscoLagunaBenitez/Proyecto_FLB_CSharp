@@ -1,0 +1,14 @@
+G:\Francisco_Proyecto\Proyecto_1\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+G:\Francisco_Proyecto\Proyecto_1\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+G:\Francisco_Proyecto\Proyecto_1\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+G:\Francisco_Proyecto\Proyecto_1\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+G:\Francisco_Proyecto\Proyecto_1\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+G:\Francisco_Proyecto\Proyecto_1\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+G:\Francisco_Proyecto\Proyecto_1\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
